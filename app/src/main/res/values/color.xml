@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name ="blue">#039CFF</color>
+    <color name ="peterBlue">#3498db</color>
+    <color name = "purple">#8e44ad</color>
     <color name="white" >#ffffff</color>
     <color name = "Green">#13a009</color>
     <color name="darkblue">#170399</color>
+    <color name ="SunFlowerYello">#f1c40f</color>
+    <color name ="chocolate">#300707</color>
+    <color name ="emerald">#2ecc71</color>
+    <color name ="torqouish">#1abc9c</color>
+    <color name = "ButtonRed">#e74c3c</color>
+    <color name = "cloud">#ecf0f1</color>
 </resources>
